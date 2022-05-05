@@ -8,6 +8,7 @@ TagManager:
   - Platform2
   - Platform3
   - Obstacle
+  - Opponent
   layers:
   - Default
   - TransparentFX
