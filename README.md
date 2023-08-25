@@ -1,6 +1,6 @@
 # HyperCasualDemoProject
 
-**Demo project I made for Panteon Games**
+**Demo project I made**
 
 You can find the windows and macOS builds of the game in the **Releases** section on the right.
 
